@@ -16,6 +16,6 @@ Create an Aura Component that displays the following:
 * Disease
 * Display name of the group
          
-You will need to modify this apex class as well.
-Submit the Aura Component you create as well as the changes you made to this class. 
+You will need to use, and modify the PropellerSalesforce apex class.
+Submit the Aura Component you create as well as the changes you made to the PropellerSalesforce Apex class. 
 
