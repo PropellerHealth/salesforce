@@ -9,12 +9,12 @@ The `sfdx-project.json` file contains useful configuration information for your 
 ## Challenge Directions
 Directions:
 Problem: Our Customer Advocates need to view basic information about each of our users.
-         Create an Aura Component that displays the following:
-         * First & last name
-         * Complete mailing address
-         * Age
-         * Disease
-         * Display name of the group
+Create an Aura Component that displays the following:
+* First & last name
+* Complete mailing address
+* Age
+* Disease
+* Display name of the group
          
 You will need to modify this apex class as well.
 Submit the Aura Component you create as well as the changes you made to this class. 
