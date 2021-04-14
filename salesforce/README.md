@@ -8,7 +8,6 @@ The `sfdx-project.json` file contains useful configuration information for your 
 
 ## Challenge Directions
 Directions:
-Clone this org, then submit a link to your repo
 Problem: Our Customer Advocates need to view basic information about each of our users.
 Create an Aura Component that displays the following:
 * First & last name
